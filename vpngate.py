@@ -60,7 +60,6 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 DEFAULT_EDGE_HOSTS = [
     "39.106.84.178:443",
     "39.106.2.1:443",
-    "101.132.111.63:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
