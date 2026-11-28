@@ -58,8 +58,7 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "39.106.84.178:443",
-    "39.106.2.1:443",
+    "2.27.134.84:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
